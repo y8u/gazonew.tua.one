@@ -1,0 +1,29 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sat, 09 Jul 2016 23:56:24 at http://www.kizi4game.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*.swf
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3DaK0c8H0%kf2A9000000%f#f -F  -%F  -%l "en, *" http://www.kizi4game.com -O1 "F:\0 Github\httrack\Friv0" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*.swf -%! )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:56:24	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/flags.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/search_bg.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/search_button.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/search_button_mo.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/bottom_butto_back.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/bottom_butto_back_hover.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/flags-min.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/nav_button_bg_hover.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/sprite.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/back_top.jpg (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/back_bottom.jpg (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/star.gif (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/delete.gif (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/star-white32.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:41	Error: 	"Not Found" (404) at link www.kizi4game.com/Web/img/star-gold32.png (from www.kizi4game.com/Web/css/a1b01e734b573fca08eb1a65e6df9a38.css?82865ed7deceadccbeeee9f3367bd959)
+00:01:44	Error: 	"Not Found" (404) at link www.kizi4game.com/restserver.php (from connect.facebook.net/en_US/sdk.js)
+00:01:45	Error: 	"Bad Request" (400) at link www.kizi4game.com/%s/profile.php?id=%s (from connect.facebook.net/en_US/sdk.js)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 24 seconds : 1031 links scanned, 1013 files written (12998172 bytes overall) [13297451 bytes received at 41041 bytes/sec], 213019 bytes transferred using HTTP compression in 2 files, ratio 31%, 7.6 requests per connection
+(17 errors, 1 warnings, 0 messages)
